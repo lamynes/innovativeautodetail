@@ -35,7 +35,7 @@
     },
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 43,
+    "uniqCompNum": 44,
     "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -677,7 +677,7 @@
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-16"
+          "_anchor": "instagram-feed-block-17"
         },
         {
           "_styles": {

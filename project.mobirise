@@ -35,7 +35,7 @@
     },
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 44,
+    "uniqCompNum": 45,
     "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -650,11 +650,11 @@
           "_params": {
             "token": "8755468524.727bfe1.460f3f5351ac40f1bf39c6a82eb00fd8",
             "showTitle": true,
-            "layoutGridRadio": false,
+            "layoutGridRadio": true,
             "imagesPerRowGrid": "5",
             "rows": "5",
             "showMoreButton": true,
-            "layoutSliderRadio": true,
+            "layoutSliderRadio": false,
             "imagesPerRowSlider": "6",
             "spacing": "10",
             "fullWidth": true,
@@ -677,7 +677,7 @@
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-17"
+          "_anchor": "instagram-feed-block-18"
         },
         {
           "_styles": {

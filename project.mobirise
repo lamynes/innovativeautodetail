@@ -650,11 +650,11 @@
           "_params": {
             "token": "8755468524.727bfe1.460f3f5351ac40f1bf39c6a82eb00fd8",
             "showTitle": true,
-            "layoutGridRadio": true,
+            "layoutGridRadio": false,
             "imagesPerRowGrid": "5",
             "rows": "5",
             "showMoreButton": true,
-            "layoutSliderRadio": false,
+            "layoutSliderRadio": true,
             "imagesPerRowSlider": "6",
             "spacing": "10",
             "fullWidth": true,
@@ -668,7 +668,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "CUSTOMER PHOTOS<br>",
+          "title": "CUSTOMER PHOTOS<br>&lt; swipe &gt;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-5",
           "display4": "display-4",

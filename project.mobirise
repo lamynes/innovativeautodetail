@@ -35,7 +35,7 @@
     },
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 45,
+    "uniqCompNum": 46,
     "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -749,7 +749,7 @@
             "postsNumber": 5,
             "socialGoogle": false,
             "socialDisqus": true,
-            "shortName": "stop-n-go-wash",
+            "shortName": "lamynes-pl",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgImageRadio": false,
@@ -766,7 +766,7 @@
             "Extension"
           ],
           "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-1c"
+          "_anchor": "facebook-comments-block-19"
         },
         {
           "_styles": {

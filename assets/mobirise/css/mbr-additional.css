@@ -2077,7 +2077,7 @@ body {
   color: #ffffff;
 }
 .cid-r7RJ9cFBVl H1 {
-  color: #149dcc;
+  color: #000000;
 }
 .cid-r7RJ9cFBVl P {
   color: #ffffff;
@@ -2098,10 +2098,10 @@ body {
   line-height: 44px;
 }
 .cid-r7RJ9gyfUH .btn-social {
-  border-color: #149dcc;
+  border-color: #000000;
 }
 .cid-r7RJ9gyfUH .btn-social:hover {
-  background: #149dcc;
+  background: #000000;
 }
 .cid-r7RJ9gyfUH .btn-social:hover i.socicon {
   color: #ffffff !important;
@@ -2122,7 +2122,7 @@ body {
 .cid-r7RJ9h9ZTK {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #149dcc;
+  background-color: #efefef;
 }
 @media (max-width: 767px) {
   .cid-r7RJ9h9ZTK .media-wrap {

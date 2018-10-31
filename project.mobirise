@@ -534,7 +534,7 @@
               }
             },
             "H1": {
-              "color": "#149dcc"
+              "color": "#000000"
             },
             "P": {
               "color": "#ffffff"

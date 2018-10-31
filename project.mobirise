@@ -39,7 +39,7 @@
     "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/bullshit-128x162-1.png",
+    "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",

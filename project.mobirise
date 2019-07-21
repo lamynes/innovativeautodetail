@@ -24,7 +24,7 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
@@ -36,20 +36,24 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 55,
-    "versionPublish": "4.10.1",
+    "versionPublish": "4.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "true",
+    "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126022959-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-126022959-1');\r\n</script>",
     "firebaseSnippet": "",
     "siteUrl": "https://stopngowash.com/",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "PWA": {
+      "enabled": true
+    },
+    "pwa-switcher": "on"
   },
   "pages": {
     "index.html": {

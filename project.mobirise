@@ -33,10 +33,16 @@
         "#3c3c3c"
       ]
     },
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
+      }
+    ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 55,
-    "versionPublish": "4.10.5",
+    "versionPublish": "4.12.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -53,7 +59,8 @@
     "PWA": {
       "enabled": true
     },
-    "pwa-switcher": "on"
+    "pwa-switcher": "on",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
@@ -655,7 +662,7 @@
         },
         {
           "_params": {
-            "token": "8755468524.727bfe1.460f3f5351ac40f1bf39c6a82eb00fd8",
+            "account": "stopngowash",
             "showTitle": true,
             "layoutGridRadio": false,
             "imagesPerRowGrid": "5",
@@ -666,7 +673,7 @@
             "spacing": "4",
             "fullWidth": true,
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgColorRadio": true,
             "bgColor": "#ffffff",
             "bgImageRadio": false,

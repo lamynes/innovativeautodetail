@@ -1226,9 +1226,11 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-r4KOGmwE28 H1 {
-  color: #ffffff;
-  text-shadow: 0 0 20px #000000;
+  text-shadow: 5px 5px 15px #000000;
   text-align: center;
+}
+.cid-r4KOGmwE28 H2 {
+  color: #000000;
 }
 .cid-r4KDuOdL48 {
   padding-top: 15px;

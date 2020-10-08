@@ -59,7 +59,7 @@
     "PWA": {
       "enabled": true,
       "name": "Stop & Go Car Wash",
-      "icon": "@PROJECT_PATH@/assets/images/untitled-6-512x512.png",
+      "icon": "@PROJECT_PATH@/assets/images/121085257-353716132439403-1605675146327640291-n-2l-512x512.png",
       "themeColor": "#4fb2d4"
     },
     "pwa-switcher": "on",

@@ -45,10 +45,10 @@
     "versionPublish": "4.12.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": false,
     "noImageResize": "",
-    "cookiesAlert": "",
-    "gdpr": "",
+    "cookiesAlert": false,
+    "gdpr": false,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126022959-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-126022959-1');\r\n</script>",
     "firebaseSnippet": "",
     "siteUrl": "https://stopngowash.com/",
@@ -57,10 +57,16 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "PWA": {
-      "enabled": true
+      "enabled": true,
+      "name": "Stop & Go Car Wash",
+      "icon": "@PROJECT_PATH@/assets/images/untitled-6-512x512.png",
+      "themeColor": "#55b4d4"
     },
     "pwa-switcher": "on",
-    "imageResize": true
+    "imageResize": true,
+    "cssOptimize": true,
+    "lazyLoad": true,
+    "lazyType": "placeholder"
   },
   "pages": {
     "index.html": {

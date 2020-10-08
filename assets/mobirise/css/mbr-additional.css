@@ -1172,6 +1172,9 @@ section.lazy-placeholder:after {
 .cid-qZXM24CCgn .mbr-section-subtitle B {
   color: #000000;
 }
+.cid-qZXM24CCgn H1 {
+  text-shadow: 0 0 20px #000000;
+}
 .cid-qZXU0pstTt {
   padding-top: 135px;
   padding-bottom: 135px;
@@ -1344,5 +1347,12 @@ section.lazy-placeholder:after {
 }
 .cid-qZYlg0OzRh .copyright > p {
   color: #000000;
+  text-align: center;
+}
+.cid-qZYlg0OzRh H1 {
+  text-align: center;
+  text-shadow: 0 0 20px #000000;
+}
+.cid-qZYlg0OzRh P {
   text-align: center;
 }

@@ -60,7 +60,7 @@
     "PWA": {
       "enabled": true,
       "name": "Stop & Go Car Wash",
-      "icon": "@PROJECT_PATH@/assets/images/121085257-353716132439403-1605675146327640291-n-2l-512x512.png",
+      "icon": "@PROJECT_PATH@/assets/images/sng123-1-512x512.png",
       "themeColor": "#4fb2d4"
     },
     "pwa-switcher": "on",
@@ -607,11 +607,11 @@
           "_name": "content10",
           "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"53\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#55b4d4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#161616\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>CALL&nbsp;<a href=\"tel:251-405-8278\" class=\"text-danger\">251-405-8278</a>&nbsp;ANYTIME, ANYWHERE, WE WILL COME 2 U!&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
           "_cid": "sd1B9AHdJB",
+          "_anchor": "content10-1l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content10-1l"
+          "_params": {}
         },
         {
           "_styles": {

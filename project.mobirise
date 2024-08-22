@@ -69,7 +69,8 @@
     "lazyLoad": true,
     "lazyType": "placeholder",
     "mbrsiteDomain": "ikka0kspe4",
-    "usedWebp": false
+    "usedWebp": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -817,7 +818,7 @@
               }
             },
             ".copyright > p": {
-              "color": "#000000",
+              "color": "#767676",
               "text-align": "center"
             },
             "H1": {

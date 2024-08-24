@@ -1129,32 +1129,16 @@ section.lazy-placeholder:after {
 .cid-qZXxugONuh SPAN {
   color: #149dcc;
 }
-.cid-sd1B9AHdJB {
-  padding-top: 45px;
-  padding-bottom: 45px;
+.cid-umoNnhkwU8 {
+  padding-top: 60px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-sd1B9AHdJB .line {
-  background-color: #161616;
-  color: #161616;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-sd1B9AHdJB .section-text {
-  padding: 2rem 0;
-  color: #000000;
-}
-.cid-sd1B9AHdJB .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-sd1B9AHdJB .inner-container {
-    width: 100% !important;
-  }
+.cid-umoNnhkwU8 .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-umhrlylYSl {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -1165,50 +1149,52 @@ section.lazy-placeholder:after {
 .cid-umhrlylYSl .mbr-text {
   color: #000000;
 }
-.cid-qZXU0pstTt {
-  padding-top: 135px;
-  padding-bottom: 135px;
+.cid-umoR3ZUAgF {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/-5ec72d3e-87a3-4b2f-98bc-3a5b340523fc-1-1024x1024.png");
 }
-.cid-qZXU0pstTt .card-box {
-  padding: 0 2rem;
+.cid-umoR3ZUAgF .card-img {
+  background-color: #fff;
 }
-.cid-qZXU0pstTt .mbr-section-btn {
-  padding-top: 1rem;
+.cid-umoR3ZUAgF .card {
+  align-self: stretch;
 }
-.cid-qZXU0pstTt .mbr-section-btn a {
-  margin-top: 1rem;
-  margin-bottom: 0;
+.cid-umoR3ZUAgF .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
 }
-.cid-qZXU0pstTt h4 {
+.cid-umoR3ZUAgF h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
-  padding-top: 2rem;
 }
-.cid-qZXU0pstTt p {
-  margin-bottom: 0;
+.cid-umoR3ZUAgF p {
   text-align: left;
-  padding-top: 1.5rem;
 }
-.cid-qZXU0pstTt .mbr-text {
+.cid-umoR3ZUAgF .mbr-text {
   color: #000000;
   text-align: center;
 }
-.cid-qZXU0pstTt .card-wrapper {
+.cid-umoR3ZUAgF .card-wrapper {
   height: 100%;
-  padding-bottom: 2rem;
-  background: #ffffff;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
-.cid-qZXU0pstTt .card-wrapper:hover {
+.cid-umoR3ZUAgF .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-qZXU0pstTt .card-title {
+@media (min-width: 992px) {
+  .cid-umoR3ZUAgF .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-umoR3ZUAgF .card-title {
   text-align: center;
-  color: #000000;
 }
 .cid-scS19iiXrK {
   padding-top: 90px;

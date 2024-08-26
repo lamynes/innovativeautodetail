@@ -2,7 +2,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Dancing Script', handwriting;
   font-size: 4.8rem;
   font-display: swap;
 }
@@ -11,11 +11,11 @@ body {
 }
 .display-2 {
   font-family: 'Bebas Neue', sans-serif;
-  font-size: 3.8rem;
+  font-size: 3.6rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 6.08rem;
+  font-size: 5.76rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -26,20 +26,20 @@ body {
   font-size: 2.24rem;
 }
 .display-5 {
-  font-family: 'Material Symbols Outlined', monospace;
-  font-size: 2rem;
+  font-family: 'Dancing Script', handwriting;
+  font-size: 2.5rem;
   font-display: swap;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 4rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 2.88rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -53,9 +53,9 @@ body {
     line-height: calc( 1.4 * (2.33rem + (4.8 - 2.33) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 3.04rem;
-    font-size: calc( 1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.88rem;
+    font-size: calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 1.12rem;
@@ -63,9 +63,9 @@ body {
     line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2rem;
+    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -89,7 +89,7 @@ body {
   background-color: #ffffff !important;
 }
 .bg-success {
-  background-color: #ffffff !important;
+  background-color: #e4d295 !important;
 }
 .bg-info {
   background-color: #ffffff !important;
@@ -162,23 +162,23 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #ffffff !important;
-  border-color: #ffffff !important;
-  color: #808080 !important;
+  background-color: #e4d295 !important;
+  border-color: #e4d295 !important;
+  color: #615119 !important;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.focus,
 .btn-success.active {
-  color: #808080 !important;
-  background-color: #d9d9d9 !important;
-  border-color: #d9d9d9 !important;
+  color: #615119 !important;
+  background-color: #d4b858 !important;
+  border-color: #d4b858 !important;
 }
 .btn-success.disabled,
 .btn-success:disabled {
-  color: #808080 !important;
-  background-color: #d9d9d9 !important;
-  border-color: #d9d9d9 !important;
+  color: #615119 !important;
+  background-color: #d4b858 !important;
+  border-color: #d4b858 !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -326,22 +326,22 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background: none;
-  border-color: #cccccc;
-  color: #cccccc;
+  border-color: #cfaf44;
+  color: #cfaf44;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
-  color: #808080;
-  background-color: #ffffff;
-  border-color: #ffffff;
+  color: #615119;
+  background-color: #e4d295;
+  border-color: #e4d295;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
-  color: #808080 !important;
-  background-color: #ffffff !important;
-  border-color: #ffffff !important;
+  color: #615119 !important;
+  background-color: #e4d295 !important;
+  border-color: #e4d295 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -424,7 +424,7 @@ body {
   color: #ffffff !important;
 }
 .text-success {
-  color: #ffffff !important;
+  color: #e4d295 !important;
 }
 .text-info {
   color: #ffffff !important;
@@ -451,7 +451,7 @@ a.text-secondary:focus {
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #cccccc !important;
+  color: #cfaf44 !important;
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -541,11 +541,11 @@ a:hover {
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 2.88rem;
 }
 blockquote {
   border-color: #ffffff;
@@ -1117,11 +1117,13 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-qZXxugONuh H1 {
-  color: #ffffff;
+  color: #e4d295;
   text-shadow: 0 0 20px #000000;
+  text-align: center;
 }
 .cid-qZXxugONuh P {
   color: #ffffff;
+  text-align: center;
 }
 .cid-qZXxugONuh B {
   color: #ffffff;
@@ -1130,7 +1132,7 @@ section.lazy-placeholder:after {
   color: #149dcc;
 }
 .cid-qZXxugONuh .icon-description {
-  color: #000000;
+  color: #ff7f9f;
 }
 .cid-umoNnhkwU8 {
   padding-top: 60px;
@@ -1381,6 +1383,9 @@ section.lazy-placeholder:after {
 }
 .cid-umz7Y3ACsy .mbr-section-subtitle {
   color: #767676;
+}
+.cid-umz7Y3ACsy H2 {
+  color: #000000;
 }
 .cid-umhrlylYSl {
   padding-top: 45px;

@@ -1461,6 +1461,19 @@ section.lazy-placeholder:after {
 .cid-umoR3ZUAgF .card-title {
   text-align: center;
 }
+.cid-umAthoB6oY {
+  background: #149dcc;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-umAthoB6oY .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-umAthoB6oY .video-block {
+    width: 100% !important;
+  }
+}
 .cid-umA52fmrj6 {
   padding-top: 75px;
   padding-bottom: 75px;

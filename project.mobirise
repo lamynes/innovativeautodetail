@@ -83,9 +83,9 @@
     "cssOptimize": true,
     "lazyLoad": true,
     "lazyType": "placeholder",
-    "mbrsiteDomain": "kxya45nmk7",
+    "mbrsiteDomain": "9vpqfznhp9",
     "usedWebp": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
@@ -1191,11 +1191,11 @@
           "_sourceTheme": "mobirise4",
           "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"3747 Government Blvd suite A-1 Mobile , AL 36693\" value=\"3747 Government Blvd suite A-1 Mobile , AL 36693\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
           "_cid": "uyL5HGU4KK",
+          "_anchor": "map1-26",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "map1-26"
+          "_params": {}
         },
         {
           "alias": false,

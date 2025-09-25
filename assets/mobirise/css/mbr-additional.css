@@ -1072,6 +1072,102 @@ section.lazy-placeholder:after {
 .cid-qZXxugONuh .icon-description {
   color: #ffffff;
 }
+.cid-umoR3ZUAgF {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
+}
+.cid-umoR3ZUAgF .card-img {
+  background-color: #fff;
+}
+.cid-umoR3ZUAgF .card {
+  align-self: stretch;
+}
+.cid-umoR3ZUAgF .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-umoR3ZUAgF h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-umoR3ZUAgF p {
+  text-align: left;
+}
+.cid-umoR3ZUAgF .mbr-text {
+  color: #000000;
+  text-align: center;
+}
+.cid-umoR3ZUAgF .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-umoR3ZUAgF .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-umoR3ZUAgF .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-umoR3ZUAgF .card-title {
+  text-align: center;
+}
+.cid-umz7Y3ACsy {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-umz7Y3ACsy .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-umz7Y3ACsy H2 {
+  color: #000000;
+}
+.cid-umhrlylYSl {
+  padding-top: 45px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-umhrlylYSl .mbr-text,
+.cid-umhrlylYSl blockquote {
+  color: #767676;
+}
+.cid-umhrlylYSl .mbr-text {
+  color: #000000;
+}
+.cid-uyL5HGU4KK .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-uyL5HGU4KK .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-uyL5HGU4KK .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-uyL5HGU4KK .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-uyL5HGU4KK .google-map[data-state="loading"] [data-state-details] {
+  display: none;
+}
 .cid-umzdek7okS {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -1328,102 +1424,6 @@ section.lazy-placeholder:after {
 }
 .cid-umz2cWOHJw .mbr-overlay ~ .container-slide {
   z-index: auto;
-}
-.cid-umz7Y3ACsy {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-umz7Y3ACsy .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-umz7Y3ACsy H2 {
-  color: #000000;
-}
-.cid-umhrlylYSl {
-  padding-top: 45px;
-  padding-bottom: 75px;
-  background-color: #ffffff;
-}
-.cid-umhrlylYSl .mbr-text,
-.cid-umhrlylYSl blockquote {
-  color: #767676;
-}
-.cid-umhrlylYSl .mbr-text {
-  color: #000000;
-}
-.cid-uyL5HGU4KK .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-uyL5HGU4KK .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-uyL5HGU4KK .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-uyL5HGU4KK .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-uyL5HGU4KK .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-umoR3ZUAgF {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #232323;
-}
-.cid-umoR3ZUAgF .card-img {
-  background-color: #fff;
-}
-.cid-umoR3ZUAgF .card {
-  align-self: stretch;
-}
-.cid-umoR3ZUAgF .card-box {
-  padding: 2rem;
-  background-color: #ffffff;
-}
-.cid-umoR3ZUAgF h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-umoR3ZUAgF p {
-  text-align: left;
-}
-.cid-umoR3ZUAgF .mbr-text {
-  color: #000000;
-  text-align: center;
-}
-.cid-umoR3ZUAgF .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-umoR3ZUAgF .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-umoR3ZUAgF .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-    -webkit-flex: 0 0 20%;
-  }
-}
-.cid-umoR3ZUAgF .card-title {
-  text-align: center;
 }
 .cid-umA52fmrj6 {
   padding-top: 75px;
